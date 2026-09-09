@@ -1,6 +1,14 @@
 {
     "rewrites": [
         {
+            "source": "/api/:path*",
+            "destination": "https://socialgram-backend.vercel.app/api/:path*"
+        },
+        {
+            "source": "/health",
+            "destination": "https://socialgram-backend.vercel.app/health"
+        },
+        {
             "source": "/(.*)",
             "destination": "/"
         }
