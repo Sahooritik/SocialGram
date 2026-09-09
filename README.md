@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SocialGram – Social Media Web Application
 
 A modern, full-featured social media web application built with React.
@@ -301,3 +302,6 @@ Ritik Sahoo
 ## License
 
 This project is licensed under the MIT License.
+=======
+# socialgram_frontend
+>>>>>>> 019e0ff44f8a22ffcdc0c1e353884a6ee8e083c9
